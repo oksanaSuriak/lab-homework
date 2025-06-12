@@ -11,17 +11,15 @@
 ## Список компаній (tickers)
 
 ```
-| Ticker | Company                  |
-|--------|--------------------------|
-| META   | Meta Platforms, Inc.     |
-| AAPL   | Apple Inc.               |
-| GOOG   | Alphabet Inc.            |
-| TSLA   | Tesla, Inc.              |
-| AMZN   | Amazon.com, Inc.         |
-| MSFT   | Microsoft Corporation    |
-| NVDA   | NVIDIA Corporation       |
-
-
+| Ticker | Company                 |
+|--------|-------------------------|
+| META   | Meta Platforms, Inc.    |
+| AAPL   | Apple Inc.              |
+| GOOG   | Alphabet Inc.           |
+| TSLA   | Tesla, Inc.             |
+| AMZN   | Amazon.com, Inc.        |
+| MSFT   | Microsoft Corporation   |
+| NVDA   | NVIDIA Corporation      |
 
 ```
 
