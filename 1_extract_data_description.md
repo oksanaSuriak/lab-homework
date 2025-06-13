@@ -112,4 +112,4 @@ final_df.to_csv(filename, index=False, header=header_required)
 - **Історичне завантаження:** формує базову базу для моделювання, аналітики, ML.
 - **Інкрементальні оновлення:** дозволяють оновлювати дані щодня без дублювання.
 - Збереження у CSV робить дані сумісними для подальшого використання в ETL-процесах, Apache Spark, Databricks або BI-системах.
-  ![alt](Downloads\IMG_9525.jpg")
+  ![alt](https://drive.google.com/file/d/18sqyGLc0-alj43t_YwCT-ErIWGDAQjT8)
